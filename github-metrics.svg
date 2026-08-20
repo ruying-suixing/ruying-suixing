@@ -2764,7 +2764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>subframe7536/maple-font</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项</div>
@@ -2798,7 +2798,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        612
+                                        613
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2817,7 +2817,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seeb4coding/SVG-ORA-Studio</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SVG ORA Studio is a free and open-source AI-powered vector design platform that transforms text or images into clean, editable SVG graphics. It features AI-driven generation, a built-in canvas editor, layer controls, and real-time vector refinement—all directly in your browser.</div>
@@ -3178,7 +3178,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2026, 10:11:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2026, 11:38:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
