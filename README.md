@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.anheyu.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=亲身体验，终生实践.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=%E4%BA%B2%E8%BA%AB%E4%BD%93%E9%AA%8C%EF%BC%8C%E7%BB%88%E7%94%9F%E5%AE%9E%E8%B7%B5%E3%80%82%3Dcout%3C%3C%22Hello%2CWorld%22;">
   </a>
 </h1>
 
