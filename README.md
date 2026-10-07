@@ -91,15 +91,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2026 - To: 04 October 2026
+From: 05 September 2026 - To: 05 October 2026
 
-Total Time: 6 hrs 14 mins
+Total Time: 4 hrs 22 mins
 
-C++           4 hrs 47 mins         ██████████████████▓░░░░░░   75.09 %
-Markdown      1 hr 17 mins          █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-Other         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-SQL           5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-JavaScript    2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+C++           4 hrs 17 mins         ███████████████████████▓░   94.67 %
+Other         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+SQL           5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
