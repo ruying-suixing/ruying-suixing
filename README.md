@@ -91,15 +91,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2026 - To: 05 October 2026
+From: 06 September 2026 - To: 06 October 2026
 
-Total Time: 4 hrs 22 mins
+Total Time: 5 hrs 11 mins
 
-C++           4 hrs 17 mins         ███████████████████████▓░   94.67 %
-Other         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-SQL           5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++           4 hrs 7 mins          ███████████████████▒░░░░░   77.30 %
+YAML          18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Astro         16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+TypeScript    13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Other         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
