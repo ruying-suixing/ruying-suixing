@@ -91,15 +91,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 30 October 2026
+From: 15 October 2026 - To: 14 November 2026
 
-Total Time: 1 hr 15 mins
+Total Time: 8 mins
 
-YAML          18 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-Astro         17 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
-TypeScript    13 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Image (svg)   8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-SQL           7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Markdown   6 mins                █████████████████▓░░░░░░░   71.24 %
+JSON       2 mins                ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
