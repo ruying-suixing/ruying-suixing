@@ -91,15 +91,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2026 - To: 15 November 2026
+From: 17 October 2026 - To: 16 November 2026
 
-Total Time: 1 hr 20 mins
+Total Time: 1 hr 51 mins
 
-C++          1 hr 7 mins           ████████████████████▒░░░░   81.63 %
-Markdown     6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-JSON         3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Other        2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-SSH Config   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+C++          1 hr 30 mins          ███████████████████▓░░░░░   79.00 %
+Python       8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Markdown     6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+JSON         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Other        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
