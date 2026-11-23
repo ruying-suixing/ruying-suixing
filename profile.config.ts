@@ -48,11 +48,11 @@ export interface ProfileConfig {
 export const config = {
   username: "ruying-suixing",
   banner: {
-    displayName: "Ikaleio",
-    roleEn: "Student / Indie Developer / Former OIer",
-    roleZh: "学生 / 独立开发者 / 前信息学竞赛生",
+    displayName: "ruying-suixing",
+    roleEn: "Student / OIer / Web Developer",
+    roleZh: "学生 / OIer / Web 开发者",
   },
-  featuredRepos: ["lm-detector", "monoize", "argon-luogu", "ikapb-oss", "transit", "patchright-cli"],
+  featuredRepos: ["rusin7", "rusin-note", "cyanwind-blog", "ruying-suixing"],
   cards: {
     shared: {
       bg_color: "00000000",
