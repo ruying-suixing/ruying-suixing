@@ -230,7 +230,7 @@ Equal-height pair. Scale both cards to the smaller natural height and give each 
 - Fonts: SVG text uses system stacks. `scripts/banner.ts` outlines the display name at build time with `opentype.js`, from the latin 700 subset of `@fontsource/noto-serif-sc`, which is OFL-licensed. Commit only the outlined paths, not font files.
 - Theme switching: the `<picture>` + `<source media="(prefers-color-scheme: dark)">` pattern. GitHub wraps it in `<themed-picture>` and follows the reader's GitHub theme setting.
 - Asset refresh: `.github/workflows/profile.yml` runs `bun run generate` daily and on script changes. It rewrites the banner, cards, and contribution animation, and commits only `assets/`.
-- Local token: copy `.env.example` to `.env` and set `GITHUB_TOKEN` (classic token with `repo` and `read:user`). Bun loads the file automatically and `.env` is git-ignored.
+- Local token: copy `.env.example` to `.env` and set `GH_TOKEN` (classic token with `repo` and `read:user`). Bun loads the file automatically and `.env` is git-ignored.
 - Preview: render `README.md` with `gh api markdown -F text=@README.md -f mode=gfm`. View the result at 846px and 308px column widths, in both color schemes.
 
 ## Glossary

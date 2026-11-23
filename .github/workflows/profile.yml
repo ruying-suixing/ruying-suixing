@@ -27,7 +27,7 @@ jobs:
       - run: bun install --frozen-lockfile
       - run: bun run generate
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Commit changes
         run: |
           git add assets

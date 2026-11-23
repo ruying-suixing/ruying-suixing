@@ -5,10 +5,10 @@ import { banner } from "./banner";
 import { theme, type Mode } from "./theme";
 
 const username = config.username;
-const token = process.env.GITHUB_TOKEN?.trim() ?? "";
+const token = process.env.GH_TOKEN?.trim() ?? "";
 if (!token) {
   throw new Error(
-    "GITHUB_TOKEN is required. Copy .env.example to .env and set GITHUB_TOKEN there (Bun loads it automatically), or export it in your shell.",
+    "GH_TOKEN is required. Copy .env.example to .env and set GH_TOKEN there (Bun loads it automatically), or export it in your shell.",
   );
 }
 
